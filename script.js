@@ -73,7 +73,7 @@ function moverBotao() {
 }
 
 function showSpecialMessage() {
-    specialMessageDiv.textContent = "Parabéns! Você conseguiu! 💖🎉";
+    specialMessageDiv.textContent = "AEEEEEEE...Vamos nos casar em 1595521548 dias! 💖🎉";
     specialMessageDiv.style.display = "block";
 
     // Ativa os fogos de artifício
@@ -106,5 +106,5 @@ botaoSim.addEventListener('click', function(event) {
 });
 
 document.getElementById('nao').addEventListener('click', function() {
-    alert('Hmm, talvez na próxima vez! 😢');
+    alert('NOOOOOOSSA, Você recusou mesmo?! 😢');
 });
